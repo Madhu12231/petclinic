@@ -6,3 +6,5 @@ Whtasapp
 madhu themelife addded
 edited 
 copyed madhu github url
+ls
+find
